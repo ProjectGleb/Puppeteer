@@ -1,0 +1,59 @@
+2024-11-30 21:41:36,544 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Configure stats pid to 96633
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Loading settings from /Users/ginta/.config/wandb/settings
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Loading settings from /Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/wandb/settings
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_init.py:_log_setup():533] Logging user logs to /Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/wandb/run-20241130_214136-b6gkv845/logs/debug.log
+2024-11-30 21:41:36,545 INFO    MainThread:96633 [wandb_init.py:_log_setup():534] Logging internal logs to /Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/wandb/run-20241130_214136-b6gkv845/logs/debug-internal.log
+2024-11-30 21:41:36,546 INFO    MainThread:96633 [wandb_init.py:init():619] calling init triggers
+2024-11-30 21:41:36,546 INFO    MainThread:96633 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'dataset': 'MNIST', 'architecture': 'CNN'}
+2024-11-30 21:41:36,546 INFO    MainThread:96633 [wandb_init.py:init():644] re-initializing run, found existing run on stack: qw1d4mt6
+2024-11-30 21:41:36,547 INFO    MainThread:96633 [wandb_run.py:_finish():2155] finishing run kozukihiroki-imperial-college-london/mnist-cnn/qw1d4mt6
+2024-11-30 21:41:36,548 ERROR   MainThread:96633 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-11-30 21:41:36,548 INFO    MainThread:96633 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-30 21:41:36,548 INFO    MainThread:96633 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-30 21:41:36,548 INFO    MainThread:96633 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2024-11-30 21:41:36,548 INFO    MainThread:96633 [wandb_run.py:_restore():2402] restore
+2024-11-30 21:41:36,548 INFO    MainThread:96633 [wandb_run.py:_restore():2408] restore done
+2024-11-30 21:41:40,150 INFO    MainThread:96633 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2024-11-30 21:41:40,150 INFO    MainThread:96633 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2024-11-30 21:41:40,158 INFO    MainThread:96633 [wandb_run.py:_footer_sync_info():3921] logging synced files
+2024-11-30 21:41:40,164 INFO    MainThread:96633 [wandb_init.py:init():669] starting backend
+2024-11-30 21:41:40,164 INFO    MainThread:96633 [wandb_init.py:init():673] sending inform_init request
+2024-11-30 21:41:40,166 INFO    MainThread:96633 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-11-30 21:41:40,167 INFO    MainThread:96633 [wandb_init.py:init():686] backend started and connected
+2024-11-30 21:41:40,171 INFO    MainThread:96633 [wandb_run.py:_label_probe_notebook():1339] probe notebook
+2024-11-30 21:41:40,171 INFO    MainThread:96633 [wandb_init.py:init():781] updated telemetry
+2024-11-30 21:41:40,192 INFO    MainThread:96633 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-30 21:41:40,501 INFO    MainThread:96633 [wandb_init.py:init():867] starting run threads in backend
+2024-11-30 21:41:40,568 INFO    MainThread:96633 [wandb_run.py:_console_start():2456] atexit reg
+2024-11-30 21:41:40,568 INFO    MainThread:96633 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2024-11-30 21:41:40,568 INFO    MainThread:96633 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2024-11-30 21:41:40,568 INFO    MainThread:96633 [wandb_run.py:_redirect():2395] Redirects installed.
+2024-11-30 21:41:40,569 INFO    MainThread:96633 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-30 21:42:02,003 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-30 21:42:02,003 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Configure stats pid to 96633
+2024-11-30 21:42:02,003 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Loading settings from /Users/ginta/.config/wandb/settings
+2024-11-30 21:42:02,003 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Loading settings from /Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/wandb/settings
+2024-11-30 21:42:02,004 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-30 21:42:02,004 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-30 21:42:02,004 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-30 21:42:02,004 INFO    MainThread:96633 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-30 21:42:02,005 INFO    MainThread:96633 [wandb_init.py:_log_setup():533] Logging user logs to /Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/wandb/run-20241130_214201-sf7zmmy4/logs/debug.log
+2024-11-30 21:42:02,005 INFO    MainThread:96633 [wandb_init.py:_log_setup():534] Logging internal logs to /Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/wandb/run-20241130_214201-sf7zmmy4/logs/debug-internal.log
+2024-11-30 21:42:02,005 INFO    MainThread:96633 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x13a28b790>
+2024-11-30 21:42:02,005 INFO    MainThread:96633 [wandb_init.py:init():619] calling init triggers
+2024-11-30 21:42:02,005 INFO    MainThread:96633 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'dataset': 'MNIST', 'architecture': 'CNN'}
+2024-11-30 21:42:02,005 INFO    MainThread:96633 [wandb_init.py:init():644] re-initializing run, found existing run on stack: b6gkv845
+2024-11-30 21:42:02,008 INFO    MainThread:96633 [wandb_run.py:_finish():2155] finishing run kozukihiroki-imperial-college-london/mnist-cnn/b6gkv845
+2024-11-30 21:42:02,009 INFO    MainThread:96633 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2024-11-30 21:42:02,009 INFO    MainThread:96633 [wandb_run.py:_restore():2402] restore
+2024-11-30 21:42:02,009 INFO    MainThread:96633 [wandb_run.py:_restore():2408] restore done
+2024-11-30 21:42:05,045 INFO    MainThread:96633 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2024-11-30 21:42:05,045 INFO    MainThread:96633 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2024-11-30 21:42:05,048 INFO    MainThread:96633 [wandb_run.py:_footer_sync_info():3921] logging synced files

@@ -1,0 +1,19 @@
+{"time":"2024-11-30T21:42:05.051309Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-30T21:42:05.051329Z","level":"INFO","msg":"created symlink","path":"/Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/wandb/run-20241130_214201-sf7zmmy4/logs/debug-core.log"}
+{"time":"2024-11-30T21:42:05.158853Z","level":"INFO","msg":"created new stream","id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:05.158885Z","level":"INFO","msg":"stream: started","id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:05.15889Z","level":"INFO","msg":"handler: started","stream_id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:05.158903Z","level":"INFO","msg":"sender: started","stream_id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:05.15893Z","level":"INFO","msg":"writer: Do: started","stream_id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:05.38039Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-30T21:42:05.433806Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-30T21:42:22.506201Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-30T21:42:22.515149Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-30T21:42:22.515398Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-30T21:42:23.095499Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-30T21:42:23.253689Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-30T21:42:24.260631Z","level":"INFO","msg":"stream: closing","id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:24.260648Z","level":"INFO","msg":"handler: closed","stream_id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:24.260654Z","level":"INFO","msg":"writer: Close: closed","stream_id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:24.26066Z","level":"INFO","msg":"sender: closed","stream_id":"sf7zmmy4"}
+{"time":"2024-11-30T21:42:24.260734Z","level":"INFO","msg":"stream: closed","id":"sf7zmmy4"}

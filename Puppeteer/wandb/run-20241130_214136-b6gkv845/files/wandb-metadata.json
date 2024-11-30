@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-15.1.1-arm64-arm-64bit",
+  "python":  "3.10.12",
+  "startedAt":  "2024-11-30T21:41:40.167233Z",
+  "program":  "/Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer/puppeteer_main.ipynb",
+  "git":  {
+    "remote":  "git@github.com:ProjectGleb/Puppeteer.git",
+    "commit":  "6df61f16ce91bc6dafcff42e4e80805b0d40ec2d"
+  },
+  "email":  "kozukihiroki@gmail.com",
+  "root":  "/Users/ginta/Library/CloudStorage/OneDrive-Personal/HIROKI/Hackathon/EF/Puppeteer/Puppeteer",
+  "host":  "MacBook-Air.local",
+  "username":  "ginta",
+  "executable":  "/Users/ginta/.pyenv/versions/3.10.12/bin/python",
+  "codePathLocal":  "puppeteer_main.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "121136906240"
+    }
+  },
+  "memory":  {
+    "total":  "25769803776"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M3",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  24
+  }
+}

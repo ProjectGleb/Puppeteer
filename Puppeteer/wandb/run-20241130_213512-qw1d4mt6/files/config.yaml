@@ -1,0 +1,42 @@
+_wandb:
+    value:
+        cli_version: 0.18.7
+        m: []
+        python_version: 3.10.12
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+                - 55
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+                - 55
+            "3":
+                - 2
+                - 16
+                - 23
+                - 55
+            "4": 3.10.12
+            "5": 0.18.7
+            "8":
+                - 1
+                - 5
+            "12": 0.18.7
+            "13": darwin-arm64
+architecture:
+    value: CNN
+batch_size:
+    value: 32
+dataset:
+    value: MNIST
+epochs:
+    value: 1
+learning_rate:
+    value: 0.001
+optimizer:
+    value: Adam
