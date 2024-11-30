@@ -1,0 +1,15 @@
+name: ef_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - seaborn
+  - matplotlib
+  - ipython
+  - pydot
+  - ipykernel
+prefix: /home/azureuser/miniconda3/envs/ef_env
