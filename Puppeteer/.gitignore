@@ -1,8 +1,0 @@
-Data/
-*.pyc
-__pycache__/
-.ipynb_checkpoints/
-.env
-venv/
-ef_env/
-*.h5Data/
