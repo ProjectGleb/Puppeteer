@@ -1,2 +1,9 @@
 *.pth
 Puppeteer/cnn_full_model.pth
+.ipynb_checkpoints
+/.ipynb_checkpoints/
+
+*.ipynb_metadata
+*.ipynb-meta
+
+*.ipynb filter=strip-notebook-output
