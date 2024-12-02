@@ -1,9 +1,9 @@
 ## Project Overview 🔎
 
 Puppeteer is a mechanistic interpretebility network that controls other models behavior by dynamically inhibiting or stimulating its weights, enabling model steering.
-<img width="996" alt="Puppeteer" src="https://github.com/user-attachments/assets/3b063d82-bcdd-4656-9934-8569c272ea6b">
+<img width="707" alt="Puppeteer Net" src="https://github.com/user-attachments/assets/6af5ecd0-9e6f-460c-9ce3-e903a8aa99d2">
 
-Result of weight inhibiting:
+Weight inhibiting visualisation:
 <img width="1231" alt="Weight inhibiting" src="https://github.com/user-attachments/assets/c7ec42b0-2bdf-4946-98c6-9bc75c84d15d">
 
 
