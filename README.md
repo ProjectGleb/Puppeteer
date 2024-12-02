@@ -1,8 +1,9 @@
 ## Project Overview 🔎
 
-Puppeteer is a mechanistic interpretebility network that controls other models behavior by dynamically inhibiting or stimulating its weights, enabling model steering.
+Puppeteer is a mechanistic interpretebility network that controls other models behavior by dynamically inhibiting or stimulating its weights, enabling model steering. What is perhaps even more interesting is that through those interactions the puppeteer network learns the curcuit representations of the subseedary network, which opens up a new way for  interpreting models. 
 
 <img width="707" alt="Puppeteer Net" src="https://github.com/user-attachments/assets/6af5ecd0-9e6f-460c-9ce3-e903a8aa99d2">
+
 
 Weight inhibiting visualisation:
 <img width="1231" alt="Weight inhibiting" src="https://github.com/user-attachments/assets/c7ec42b0-2bdf-4946-98c6-9bc75c84d15d">
