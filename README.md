@@ -6,6 +6,7 @@ Puppeteer is a mechanistic interpretebility network that controls other models b
 
 
 Weight inhibiting visualisation:
+
 <img width="707" alt="Weight inhibiting" src="https://github.com/user-attachments/assets/c7ec42b0-2bdf-4946-98c6-9bc75c84d15d">
 
 
