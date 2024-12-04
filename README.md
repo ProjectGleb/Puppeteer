@@ -1,11 +1,7 @@
 ## Project Overview 🔎
 
 Symbiote is a mechanistic interpretebility network that controls other models behavior by dynamically inhibiting or stimulating its weights, enabling model steering. What is perhaps even more interesting is that through those interactions the Symbiote network learns the curcuit representations of the subseedary network, which allows you to observe which circuits are responsible for which inputs.
-![SymbioteNet](https://github.com/user-attachments/assets/c3188cf7-97ae-4e2f-a25f-e1e4490cb5f8)
-
-<img width="1000" alt="Symbiote Net" src="[https://github.com/user-attachments/assets/6af5ecd0-9e6f-460c-9ce3-e903a8aa99d2](https://github.com/user-attachments/assets/c3188cf7-97ae-4e2f-a25f-e1e4490cb5f8)">
-
-
+<img width="1000" alt="SymbiotNet" src="https://github.com/user-attachments/assets/265d3a0e-183d-44da-8dd6-7522ef1a0f0e">
 Weight inhibiting visualisation:
 
 <img width="1000" alt="Weight inhibiting" src="https://github.com/user-attachments/assets/c7ec42b0-2bdf-4946-98c6-9bc75c84d15d">
